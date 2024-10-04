@@ -4,6 +4,8 @@ This is the most basic chatbot I could think of doing in node.js/typescript. Wit
 
 More of a demo what basic steps are needed to create such a thing and certainly not something I'd trust in.
 
+See the comments in the sources in `src` for explanations what it actually does.
+
 
 ## Installation
 
